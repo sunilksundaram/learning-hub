@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "aa-intro-rust",
+    "ab-intermediate-rust",
+    "ac-advance-rust",
+]
