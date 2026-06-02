@@ -1,6 +1,5 @@
 [workspace]
-members = [
-    "aa-intro-rust",
-    "ab-intermediate-rust",
-    "ac-advance-rust",
+resolver="3"
+members = ["aa_intro_basics", "ab_intermediate_rust", "ac_advanced_rust", "mylib", "playground",
+    "playtest", "rust_basics", "temp_conv", "testpdf",
 ]

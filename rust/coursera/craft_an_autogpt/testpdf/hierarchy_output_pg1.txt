@@ -1,0 +1,2093 @@
+Structure type: "Document"
+Childern: [
+    Text(
+        TextContent {
+            text: "Document Identification:  D002072203 Rev. A ",
+            bbox: Rect {
+                x: 54.0,
+                y: 745.56,
+                width: 206.78503,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                0,
+            ),
+            artifact_type: Some(
+                Pagination(
+                    Header,
+                ),
+            ),
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 558.1,
+                y: 742.44,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                8,
+            ),
+            artifact_type: Some(
+                Pagination(
+                    Header,
+                ),
+            ),
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "SH2.0 MAC Address Master Verification Plan (LAPC)/ SH2.0_MSVP",
+            bbox: Rect {
+                x: 54.0,
+                y: 727.08,
+                width: 385.07507,
+                height: 14.04,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 14.04,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                9,
+            ),
+            artifact_type: Some(
+                Pagination(
+                    Header,
+                ),
+            ),
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 438.07,
+                y: 727.08,
+                width: 3.17304,
+                height: 14.04,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 14.04,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 1.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                10,
+            ),
+            artifact_type: Some(
+                Pagination(
+                    Header,
+                ),
+            ),
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 54.0,
+                y: 712.42,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                11,
+            ),
+            artifact_type: Some(
+                Pagination(
+                    Header,
+                ),
+            ),
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 54.0,
+                y: 698.98,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                24,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Number: ",
+            bbox: Rect {
+                x: 313.01,
+                y: 665.5,
+                width: 46.892,
+                height: 12.0,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 12.0,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                34,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "867214-90003",
+            bbox: Rect {
+                x: 378.43,
+                y: 683.02,
+                width: 58.608612,
+                height: 9.96,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 9.96,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                36,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 437.23,
+                y: 683.02,
+                width: 2.7120001,
+                height: 12.0,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 12.0,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                39,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Project: ",
+            bbox: Rect {
+                x: 69.984,
+                y: 680.02,
+                width: 41.467995,
+                height: 12.0,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 12.0,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                25,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Class3 DMR, SH2.0 MAC Address ",
+            bbox: Rect {
+                x: 130.1,
+                y: 679.54,
+                width: 134.66351,
+                height: 9.96,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 9.96,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                27,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "DHF ",
+            bbox: Rect {
+                x: 324.79,
+                y: 680.14,
+                width: 23.352,
+                height: 12.0,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 12.0,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                33,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Expansion for SH2.0 Clients",
+            bbox: Rect {
+                x: 130.1,
+                y: 667.3,
+                width: 110.277115,
+                height: 9.96,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 9.96,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                31,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 240.89,
+                y: 667.3,
+                width: 2.7120001,
+                height: 12.0,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 12.0,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                32,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 306.05,
+                y: 649.3,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                40,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Current Revision Change History ",
+            bbox: Rect {
+                x: 225.29,
+                y: 630.34,
+                width: 163.65202,
+                height: 12.0,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 12.0,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                41,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "As Issued ",
+            bbox: Rect {
+                x: 282.53,
+                y: 613.3,
+                width: 49.171997,
+                height: 12.0,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 12.0,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                43,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 54.0,
+                y: 597.7,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                45,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 54.0,
+                y: 584.26,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                46,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 54.0,
+                y: 568.9,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                47,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Approvers ",
+            bbox: Rect {
+                x: 283.13,
+                y: 554.02,
+                width: 49.795013,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                48,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Function/Role ",
+            bbox: Rect {
+                x: 79.824,
+                y: 538.99,
+                width: 67.41105,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                50,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Name ",
+            bbox: Rect {
+                x: 207.53,
+                y: 538.99,
+                width: 29.615036,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                52,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Approver Signature ",
+            bbox: Rect {
+                x: 313.61,
+                y: 538.99,
+                width: 91.55505,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                54,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Date ",
+            bbox: Rect {
+                x: 488.5,
+                y: 538.99,
+                width: 27.695068,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                56,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "1",
+            bbox: Rect {
+                x: 510.22,
+                y: 542.95,
+                width: 3.52872,
+                height: 6.96,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 6.96,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                57,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "ER Manager/Principal ",
+            bbox: Rect {
+                x: 57.12,
+                y: 524.35,
+                width: 99.6248,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                59,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Delroy Smith ",
+            bbox: Rect {
+                x: 171.62,
+                y: 517.63,
+                width: 60.24504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                63,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 415.51,
+                y: 524.35,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                65,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Architect ",
+            bbox: Rect {
+                x: 57.12,
+                y: 510.91,
+                width: 43.19904,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                61,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "See Windchill Doc# D002072203 ",
+            bbox: Rect {
+                x: 343.03,
+                y: 510.91,
+                width: 147.48502,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                66,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 415.51,
+                y: 495.43,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                74,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Program Manager ",
+            bbox: Rect {
+                x: 57.12,
+                y: 488.71,
+                width: 83.63504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                70,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Jack Guo ",
+            bbox: Rect {
+                x: 171.62,
+                y: 488.71,
+                width: 42.00505,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                72,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "See Windchill Doc# D002072203 ",
+            bbox: Rect {
+                x: 343.03,
+                y: 481.99,
+                width: 147.48502,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                75,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Product Quality ",
+            bbox: Rect {
+                x: 57.12,
+                y: 466.63,
+                width: 72.621124,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                79,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Asim Ahmad ",
+            bbox: Rect {
+                x: 171.62,
+                y: 459.91,
+                width: 58.92505,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                82,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 415.51,
+                y: 466.63,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                84,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Engineer ",
+            bbox: Rect {
+                x: 57.12,
+                y: 453.19,
+                width: 41.87904,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                80,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "See Windchill Doc# D002072203 ",
+            bbox: Rect {
+                x: 343.03,
+                y: 453.19,
+                width: 147.48502,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                85,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 415.51,
+                y: 431.83,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                97,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Technical Reviewer,  ",
+            bbox: Rect {
+                x: 57.12,
+                y: 438.55,
+                width: 93.83505,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                89,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Sr Software Architect ",
+            bbox: Rect {
+                x: 57.12,
+                y: 425.11,
+                width: 97.31505,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                92,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Cheuw Lee ",
+            bbox: Rect {
+                x: 171.62,
+                y: 425.11,
+                width: 51.36505,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                95,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "See Windchill Doc# D002072203 ",
+            bbox: Rect {
+                x: 343.03,
+                y: 418.39,
+                width: 147.48502,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                98,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 57.12,
+                y: 411.67,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                94,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Sonia Rawal ",
+            bbox: Rect {
+                x: 171.62,
+                y: 390.31,
+                width: 56.28505,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                105,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Solution Test ",
+            bbox: Rect {
+                x: 57.12,
+                y: 397.03,
+                width: 60.951843,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                102,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 415.51,
+                y: 397.03,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                107,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Integration ",
+            bbox: Rect {
+                x: 57.12,
+                y: 383.59,
+                width: 52.315044,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                103,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "See Windchill Doc# D002072203 ",
+            bbox: Rect {
+                x: 343.03,
+                y: 383.59,
+                width: 147.48502,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                108,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 54.0,
+                y: 368.81,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                112,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Approvers: are defined above fT6ewre Added. ",
+            bbox: Rect {
+                x: 54.0,
+                y: 355.49,
+                width: 209.06503,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                113,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 54.0,
+                y: 342.05,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                120,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 198.05,
+                y: 51.144,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                121,
+            ),
+            artifact_type: Some(
+                Pagination(
+                    Footer,
+                ),
+            ),
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "1",
+            bbox: Rect {
+                x: 54.0,
+                y: 42.0,
+                width: 3.28536,
+                height: 6.48,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 6.48,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                122,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Page 1 of ",
+            bbox: Rect {
+                x: 507.1,
+                y: 16.32,
+                width: 39.697662,
+                height: 9.96,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 9.96,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                17,
+            ),
+            artifact_type: Some(
+                Pagination(
+                    Footer,
+                ),
+            ),
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "38",
+            bbox: Rect {
+                x: 546.82,
+                y: 16.32,
+                width: 11.27996,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                21,
+            ),
+            artifact_type: Some(
+                Pagination(
+                    Footer,
+                ),
+            ),
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 558.1,
+                y: 16.32,
+                width: 2.25096,
+                height: 9.96,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 9.96,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                22,
+            ),
+            artifact_type: Some(
+                Pagination(
+                    Footer,
+                ),
+            ),
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " Effective Date is the date of last signature. ",
+            bbox: Rect {
+                x: 57.24,
+                y: 38.52,
+                width: 176.30095,
+                height: 9.96,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 9.96,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                123,
+            ),
+            artifact_type: None,
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: "Confidentiality: Internal ",
+            bbox: Rect {
+                x: 54.0,
+                y: 16.56,
+                width: 101.510956,
+                height: 9.96,
+            },
+            font: FontSpec {
+                name: "F2",
+                size: 9.96,
+            },
+            style: TextStyle {
+                weight: Bold,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                12,
+            ),
+            artifact_type: Some(
+                Pagination(
+                    Footer,
+                ),
+            ),
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+    Text(
+        TextContent {
+            text: " ",
+            bbox: Rect {
+                x: 54.0,
+                y: 2.88,
+                width: 2.49504,
+                height: 11.04,
+            },
+            font: FontSpec {
+                name: "F1",
+                size: 11.04,
+            },
+            style: TextStyle {
+                weight: Normal,
+                italic: false,
+                color: Color {
+                    r: 0.0,
+                    g: 0.0,
+                    b: 0.0,
+                },
+                underline: false,
+                strikethrough: false,
+            },
+            reading_order: Some(
+                23,
+            ),
+            artifact_type: Some(
+                Pagination(
+                    Footer,
+                ),
+            ),
+            origin: None,
+            rotation_degrees: None,
+            matrix: None,
+        },
+    ),
+]
