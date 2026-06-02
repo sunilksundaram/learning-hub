@@ -1,0 +1,11 @@
+torch 
+torchvision 
+torchaudio
+transformers
+accelerate
+bitsandbytes
+fastai
+jupyterlab
+ddgs
+fastbook
+gradio
