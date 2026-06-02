@@ -1,6 +1,6 @@
-\# Craft an AutoGPT Gen AI Instrument with Rust \& GPT-4 Specialization
+# Craft an AutoGPT Gen AI Instrument with Rust \& GPT-4 Specialization
 
-\## What you'll learn
+## What you'll learn
 
 * Build a fully functional web server using Actix Web in Rust and understand Rust's memory management and performance advantages.
 * Create an AutoGPT agent “Auto-Gippity” to generate, test, and optimize code and explore the creation of specialized AutoGPT agents for various tasks.
@@ -9,9 +9,9 @@
 
 
 
-\## Topics
+## Topics
 
-\### Introduction and Rust Basics
+### Introduction and Rust Basics
 
 * Install and set up Rust and its development environment; create and manage projects using Cargo.
 * Write, test, and efficiently apply Rust's memory management principles in code.
@@ -22,7 +22,7 @@
 
 
 
-\### Intermediate Rust Programming and Webserver Development
+### Intermediate Rust Programming and Webserver Development
 
 * Create and manage Rust projects and modules; utilize enums, structs, and traits for effective code organization.
 * Implement smart pointers and concurrency for optimized performance.
@@ -33,7 +33,7 @@
 
 
 
-\### Advanced Rust Programming and AutoGPT Development
+### Advanced Rust Programming and AutoGPT Development
 
 * Setup and manage advanced Rust projects.
 * Implement AI-driven functions and agents using Rust and OpenAI, optimizing tasks for efficient performance.
